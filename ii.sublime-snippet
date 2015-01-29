@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[(function (window, angular, undefined) { 'use strict';
+  
+  angular
+    .module($1)
+
+})(window, window.angular);]]></content>
+	<tabTrigger>ii</tabTrigger>
+	<scope>source.js</scope>
+    <description>Angular IIEF</description>
+</snippet>
