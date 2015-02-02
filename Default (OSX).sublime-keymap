@@ -1,0 +1,4 @@
+[
+	// Use again to jump to column 0
+	{ "keys": ["ctrl+a"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+]
